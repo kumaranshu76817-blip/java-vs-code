@@ -1,9 +1,9 @@
 class A{
-    public int anshu(){
+     int anshu(){
         return 4;
 
     }
-    public void meth2(){
+    void meth2(){
         System.out.println("i am method 2 of claass a");
     }
 
